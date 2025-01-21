@@ -1,0 +1,6 @@
+.dp__theme_dark, .dp__theme_light {
+  --dp-background-color: hsl(var(--b2, var(--b1)) / var(--tw-bg-opacity));
+  --dp-scroll-bar-background: hsl(var(--b2, var(--b1)) / var(--tw-bg-opacity));
+  --dp-primary-color: hsl(var(--p) / var(--tw-bg-opacity));
+  --dp-highlight-color: hsl(var(--p) / var(--tw-bg-opacity));
+}
